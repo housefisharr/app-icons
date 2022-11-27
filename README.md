@@ -1,19 +1,3 @@
-<p align="center">
-  <h3 align = "center" > 🟣 Dashboard Icons </h3>
-  <p align="center">
-    <a href="https://www.jsdelivr.com/package/gh/walkxcode/dashboard-icons">
-      <img src="https://data.jsdelivr.com/v1/package/gh/walkxcode/dashboard-icons/badge?style=rounded"/>
-    </a>
-  </p>
-
-  <p align="center">
-    ❤️ The best icons for your personal dashboard.
- <br/>
-    <a href="#icons"> <strong > See the icons »</strong> </a>
- <br/>
- <br/>
-</p>
-
 <!-- GETTING STARTED -->
 # Getting Started
 
